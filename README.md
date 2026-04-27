@@ -14,7 +14,7 @@ Every solution file includes:
 - A short test section at the bottom of the file that instantiates the class and runs a sample input, so you can verify the solution locally by simply running the file.
 - Some files include commented-out alternative approaches or optimized versions alongside the primary solution.
 
-There are currently **50 solutions** in this repository.
+There are currently **60 solutions** in this repository.
 
 ---
 
@@ -44,6 +44,7 @@ Almost all files follow this naming pattern:
 
 A couple of files deviate from the standard pattern:
 
+- `Q8.py` -- An earlier solution for problem #8 (String to Integer), before the naming convention was adopted. The same problem also exists as `0008-string-to-integer.py` under the standard naming.
 - `Q258.py` -- An earlier solution for problem #258, before the naming convention was adopted. The same problem also exists as `0258-addDigits.py` under the standard naming.
 - `0258-addDigits.py` -- Uses camelCase instead of hyphen-separated words. Most files use lowercase hyphens, but a few like this one use camelCase from the original LeetCode method name.
 
@@ -145,6 +146,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 28   | Find the Index of the First Occurrence in a String| `0028-index-of-first-occurrence.py`                         |
 | 29   | Divide Two Integers                               | `0029-divide-two-integers.py`                               |
 | 35   | Search Insert Position                            | `0035-search-insert-position.py`                            |
+| 38   | Count and Say                                     | `0038-count-and-say.py`                                     |
 | 41   | First Missing Positive                            | `0041-first-missing-positive-number.py`                     |
 | 43   | Multiply Strings                                  | `0043-multiply-strings.py`                                  |
 | 48   | Rotate Image                                      | `0048-rotate-image.py`                                      |
@@ -159,6 +161,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 119  | Pascal's Triangle II                              | `0119-pascal's-triangle-2.py`                               |
 | 125  | Valid Palindrome                                  | `0125-valid-palindrome.py`                                  |
 | 136  | Single Number                                     | `0136-single-number.py`                                     |
+| 168  | Excel Sheet Column Title                          | `0168-excel-sheet-column-title.py`                          |
 | 239  | Sliding Window Maximum                            | `0239-sliding-window-maximum.py`                            |
 | 258  | Add Digits                                        | `0258-addDigits.py`                                         |
 | 290  | Word Pattern                                      | `0290-word-pattern.py`                                      |
@@ -168,13 +171,23 @@ Below is the complete list of solved problems, ordered by problem number.
 | 415  | Add Strings                                       | `0415-add-strings.py`                                       |
 | 520  | Detect Capital                                    | `0520-detect-capital.py`                                    |
 | 541  | Reverse String II                                 | `0541-reverse-string-II.py`                                 |
+| 657  | Robot Return to Origin                            | `0657-robot-return-to-origin.py`                            |
 | 874  | Walking Robot Simulation                          | `0874-walking-robot-simulation.py`                          |
+| 1848 | Minimum Distance to the Target Element            | `1848-minimum-distance-to-the-target-element.py`            |
+| 1855 | Maximum Distance Between a Pair of Values         | `1855-maximum-distance-between-a-pair-of-values.py`         |
 | 1980 | Find Unique Binary String                         | `1980-find-unique-binary-string.py`                         |
+| 2078 | Two Furthest Houses With Different Colors         | `2078-two-furthest-houses-with-different-colors.py`         |
+| 2452 | Words Within Two Edits of Dictionary              | `2452-words-within-two-edits-of-dictionary.py`              |
+| 2515 | Shortest Distance to Target String in Circular Array | `2515-shortest-distance-to-target-string-in-circular-array.py` |
+| 2615 | Sum of Distances                                  | `2615-sum-of-distances.py`                                  |
+| 2833 | Furthest Point From Origin                        | `2833-furthest-point-from-origin.py`                        |
+| 3488 | Closest Equal Element Queries                     | `3488-closest-equal-element-queries.py`                     |
 | 3653 | XOR After Range Multiplication Queries I          | `3653-xor-after-range-multiplication-queries-I.py`          |
-| 3655 | XOR After Range Multiplication Queries II         | `3655-XOR-after-range-multiplication-queries-II.py`         |
 | 3740 | Minimum Distance Between Three Equal Elements I   | `3740-minimum-distance-between-three-equal-elements-I.py`   |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs    | `3761-minimum-absolute-distance-between-mirror-pairs.py`    |
+| 3783 | Mirror Distance of an Integer                     | `3783-mirror-distance-of-an-integer.py`                     |
 
-An older duplicate also exists: `Q258.py` (same as problem #258, Add Digits).
+Older duplicates also exist: `Q8.py` (same as problem #8, String to Integer) and `Q258.py` (same as problem #258, Add Digits).
 
 ---
 
