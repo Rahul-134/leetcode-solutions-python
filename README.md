@@ -180,12 +180,15 @@ Below is the complete list of solved problems, ordered by problem number.
 | 2452 | Words Within Two Edits of Dictionary              | `2452-words-within-two-edits-of-dictionary.py`              |
 | 2515 | Shortest Distance to Target String in Circular Array | `2515-shortest-distance-to-target-string-in-circular-array.py` |
 | 2615 | Sum of Distances                                  | `2615-sum-of-distances.py`                                  |
+| 3120 | Count the number of Special Characters I                        | `3120-count-the-number-of-special-characters-I.py`                        |
 | 2833 | Furthest Point From Origin                        | `2833-furthest-point-from-origin.py`                        |
 | 3488 | Closest Equal Element Queries                     | `3488-closest-equal-element-queries.py`                     |
 | 3653 | XOR After Range Multiplication Queries I          | `3653-xor-after-range-multiplication-queries-I.py`          |
 | 3740 | Minimum Distance Between Three Equal Elements I   | `3740-minimum-distance-between-three-equal-elements-I.py`   |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs    | `3761-minimum-absolute-distance-between-mirror-pairs.py`    |
 | 3783 | Mirror Distance of an Integer                     | `3783-mirror-distance-of-an-integer.py`                     |
+| 3918 | Sum of Primes between Number and its Reverse                        | `3918-sum-of-primes-between-number-and-its-reverse.py`                        |
+| 3921 | Score Validator                        | `3921-score-validator.py`                        |
 
 Older duplicates also exist: `Q8.py` (same as problem #8, String to Integer) and `Q258.py` (same as problem #258, Add Digits).
 
