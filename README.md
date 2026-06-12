@@ -150,6 +150,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 38   | Count and Say                                     | `0038-count-and-say.py`                                     |
 | 41   | First Missing Positive                            | `0041-first-missing-positive-number.py`                     |
 | 43   | Multiply Strings                                  | `0043-multiply-strings.py`                                  |
+| 46    | Permutations                                       | `0046-permutations.py`                                           |
 | 48   | Rotate Image                                      | `0048-rotate-image.py`                                      |
 | 50   | Pow(x, n)                                         | `0050-pow(x,n).py`                                          |
 | 58   | Length of Last Word                                | `0058-length-of-last-word.py`                               |
