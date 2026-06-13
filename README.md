@@ -139,6 +139,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 13   | Roman to Integer                                  | `0013-roman-to-integer.py`                                  |
 | 14   | Longest Common Prefix                             | `0014-longest-common-prefix.py`                             |
 | 15   | 3Sum                                              | `0015-3sum.py`                                              |
+| 17    | Letter Combinations Of A Phone Number                                       | `0017-letter-combinations-of-a-phone-number.py`                                           |
 | 19   | Letter Combinations of a Phone Number             | `0019-letter-combinations-of-phone-number.py`               |
 | 20   | Valid Parentheses                                  | `0020-valid-parentheses.py`                                 |
 | 21   | Merge Two Sorted Lists                            | `0021-merge-two-sorted-lists.py`                            |
@@ -149,6 +150,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 38   | Count and Say                                     | `0038-count-and-say.py`                                     |
 | 41   | First Missing Positive                            | `0041-first-missing-positive-number.py`                     |
 | 43   | Multiply Strings                                  | `0043-multiply-strings.py`                                  |
+| 46    | Permutations                                       | `0046-permutations.py`                                           |
 | 48   | Rotate Image                                      | `0048-rotate-image.py`                                      |
 | 50   | Pow(x, n)                                         | `0050-pow(x,n).py`                                          |
 | 58   | Length of Last Word                                | `0058-length-of-last-word.py`                               |
@@ -180,8 +182,8 @@ Below is the complete list of solved problems, ordered by problem number.
 | 2452 | Words Within Two Edits of Dictionary              | `2452-words-within-two-edits-of-dictionary.py`              |
 | 2515 | Shortest Distance to Target String in Circular Array | `2515-shortest-distance-to-target-string-in-circular-array.py` |
 | 2615 | Sum of Distances                                  | `2615-sum-of-distances.py`                                  |
-| 3120 | Count the number of Special Characters I                        | `3120-count-the-number-of-special-characters-I.py`                        |
 | 2833 | Furthest Point From Origin                        | `2833-furthest-point-from-origin.py`                        |
+| 3120 | Count the number of Special Characters I                        | `3120-count-the-number-of-special-characters-I.py`                        |
 | 3488 | Closest Equal Element Queries                     | `3488-closest-equal-element-queries.py`                     |
 | 3653 | XOR After Range Multiplication Queries I          | `3653-xor-after-range-multiplication-queries-I.py`          |
 | 3740 | Minimum Distance Between Three Equal Elements I   | `3740-minimum-distance-between-three-equal-elements-I.py`   |
