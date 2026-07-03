@@ -163,6 +163,7 @@ Below is the complete list of solved problems, ordered by problem number.
 | 119  | Pascal's Triangle II                              | `0119-pascal's-triangle-2.py`                               |
 | 125  | Valid Palindrome                                  | `0125-valid-palindrome.py`                                  |
 | 136  | Single Number                                     | `0136-single-number.py`                                     |
+| 137    | Single Number Ii                                       | `0137-single-number-II.py`                                           |
 | 168  | Excel Sheet Column Title                          | `0168-excel-sheet-column-title.py`                          |
 | 239  | Sliding Window Maximum                            | `0239-sliding-window-maximum.py`                            |
 | 258  | Add Digits                                        | `0258-addDigits.py`                                         |
